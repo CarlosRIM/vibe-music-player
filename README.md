@@ -42,6 +42,12 @@ npm install
 npm run dev
 ```
 
+Abra:
+
+```bash
+http://localhost:5173
+```
+
 ---
 
 ## 🏗 Build de produção
@@ -87,12 +93,12 @@ https://pages.github.com
 
 ```bash
 src/
- ├── components/
- ├── hooks/
- ├── data/
- ├── App.jsx
- ├── App.css
- └── main.jsx
+├── components/
+├── hooks/
+├── data/
+├── App.jsx
+├── App.css
+└── main.jsx
 ```
 
 ---
